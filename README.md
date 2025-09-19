@@ -35,3 +35,5 @@ The business is profitable, but performance is uneven across regions and custome
 In summary: The store is growing and profitable, but imbalanced regional performance, concentrated customer reliance, and discount driven sales highlight opportunities for smarter growth.
 
 #DataAnalytics #BusinessIntelligence #PowerBI #ExcelWorksheet #GlobalBusiness #DataDriven
+
+<img width="1336" height="513" alt="image" src="https://github.com/user-attachments/assets/351ed04c-ae7e-49e8-8940-a964ab1021ff" />
